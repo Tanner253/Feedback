@@ -9,16 +9,17 @@
 coming sooon
 ---------------------------------
 ## Web Application
-- Buisnesses sign up on the web application and recieve a 10 digit code (ID CODE)
-- buisnesses advertise the mobile application and hand out the 10 digit code requesting feedback from users or clientele
-- users download app, and are prompted to enter a code to identify which buisness they are sending feedback too
-- after entering the code, verifying it through the api and database, and recieving back a verification code
+- Businesses sign up on the web application and receive a 10 digit code (ID CODE)
+- businesses advertise the mobile application and hand out the 10 digit code requesting feedback from users or clientele
+- users download the app, and are prompted to enter a code to identify which business they are sending feedback too
+- after entering the code, verifying it through the API and database, and receiving back a verification code
 - User can enter in plain text a simple feedback report, and click "send" on their device. The process is complete.
 
-- Buisnesses can later sign into the web application and CRUD the reviews left by people who have entered their buisness code into the application for feedback
+- Businesses can later sign in to the web application and CRUD the reviews left by people who have entered their business code into the application for feedback
 
 
-- Building web application to handle the regiistry of the buisnesses or liscences for anonymous feedback. next i will need to create an API to handle the request and response cycle for both the mobile application and the web application to interface with the same databases with the same api functions.
+- Building a web application to handle the registry of the businesses or licenses for anonymous feedback. next, I will need to create an API to handle the request and response cycle for both the mobile application and the web application to interface with the same databases with the same API functions.
+
 
 ---------------------------------
 
