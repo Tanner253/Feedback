@@ -1,13 +1,5 @@
 
 ---------------------------------
----------------------------------
-
-
----------------------------------
-## We are deployed on Azure!
-
-coming sooon
----------------------------------
 ## Web Application
 - Businesses sign up on the web application and receive a 10 digit code (ID CODE)
 - businesses advertise the mobile application and hand out the 10 digit code requesting feedback from users or clientele
