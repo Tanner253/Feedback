@@ -85,7 +85,8 @@ Unit testing is included in the ======= project using the xUnit test framework. 
 
 ---------------------------
 ## Data Flow (Frontend, Backend, REST API)
-***[Add a clean and clear explanation of what the data flow is. Walk me through it.]***
+![Web flow](Web-flow.JPG)
+
 
 
 ---------------------------
