@@ -92,7 +92,8 @@ Unit testing is included in the ======= project using the xUnit test framework. 
 ## Data Model
 
 ### Overall Project Schema
-!["ERD-Feedback.JPG"]("Database design")
+![Design](ERD-Feedback.JPG)
+
 
 
 ---------------------------
