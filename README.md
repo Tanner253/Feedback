@@ -17,7 +17,21 @@ Imagine a restaurant that isn’t doing very well in business. All the employees
 ## neat ideas:
 - Like yelp, give users accounts on mobile devices, and allow users to be rewarded for continuous feedback reports to ideally help a business save money in the long run by expediting the way businesses are run by suggestions from workers (or educators given feedback by students in a class setting) (incentive programs to keep clients using the app longer)
 
-
+---------------------------------
+## PLAN: 
+- Initial Planning phase ***05/20**
+- Initial Funding pitch ***06/12***
+- start Prototype  ***06/15***
+- Social outreach, and research to local buisnesses, in and out of state ("would you use a service like this, if so how much would you reasonably pay for a service like this")***06/15***
+- 2nd Funding pitch ***07/01***
+- Hire 2nd developer ***07/01***
+- Planning phase (Security, Legal, Web app logistics, API) *** 07/05 (when second developer hired)***
+- Construction of Web application and API  ***07/06***
+- Testing & security for Web app and API  ***09/05 (very generous timeline)***
+- Planning phase (Mobile app) ***09/07***
+- Mobile  Testing & security & Deployment ***09/25****
+- Application polish and Alpha launch for testing ***10/01***
+- Commercial Application launch  ***11/01***
 ---------------------------------
 
 ## Tools Used
