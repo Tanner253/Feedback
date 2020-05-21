@@ -49,8 +49,8 @@ Imagine a restaurant that isn’t doing very well in business. All the employees
 
 ---------------------------
 ## Data Flow (Frontend, Backend, REST API)
-![Web flow](Web-flow.jpg)
-![Mobile flow](Mobile-flow.jpg)
+![Web flow](web.JPG)
+![Mobile flow](mob.JPG)
 
 
 
