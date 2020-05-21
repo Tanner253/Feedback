@@ -72,26 +72,14 @@ Imagine a restaurant that isn’t doing very well in business. All the employees
 | ID  | int | YES |
 
 
-
+#COMING SOON!
 ## Recent Updates
 ---------------------------------
-
 ## Usage
-
-
 ### Overview of Recent Posts
-
-
 ### Creating a Post
-
-
 ### Enriching a Post
-
-
 ### Viewing Post Details
-
-
-
 ## Change Log
 
 
