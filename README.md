@@ -33,7 +33,8 @@ Imagine a restaurant that isn’t doing very well in business. All the employees
 - Application polish and Alpha launch for testing ***10/01***
 - Commercial Application launch  ***11/01***
 ---------------------------------
-
+#### Concerns: Will users go out of their way to download an app, and leave feedback for a buisness that they care about?
+---------------------------------
 ## Tools Used
 
 
