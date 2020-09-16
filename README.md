@@ -1,4 +1,6 @@
 ## Web Application
+
+---- idea dead in the water "Transactional buisness would not be interested"
 - Businesses sign up on the web application and receive a 6-10 digit code (ID CODE)
 - businesses advertise the mobile application and hand out the 10 digit code requesting feedback from users or clientele
 - users download the app and are prompted to enter a code to identify which business they are sending feedback too
